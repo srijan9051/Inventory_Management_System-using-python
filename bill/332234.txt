@@ -1,0 +1,21 @@
+
+	    Super Mart Inventory
+E-mail:contactus@smi.com    Phone-8620018912
+Address: 42,Bandra Road,Mumbai-400050
+===============================================
+Customer Name: Subham
+Ph no. :9091406360
+Bill No. 332234			Date: 13/07/2024
+===============================================
+Product Name		Per Price	 Qty	Net Price
+===============================================
+        
+ Full Sleve Shirt	   Rs.550		  2    Rs.1100.0
+ T-Shirt	   Rs.350		  1    Rs.350.0
+ Formal Shoes	   Rs.850		  1    Rs.850.0
+===============================================
+ Amount  			Rs.2300.0
+ Discount			Rs.115.0
+ Net Pay 			Rs.2185.0
+===============================================
+        

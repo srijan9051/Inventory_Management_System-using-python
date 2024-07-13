@@ -1,0 +1,20 @@
+
+	    Super Mart Inventory
+E-mail:contactus@smi.com    Phone-8620018912
+Address: 42,Bandra Road,Mumbai-400050
+===============================================
+Customer Name: subham
+Ph no. :9091406360
+Bill No. 221560			Date: 12/07/2024
+===============================================
+Product Name		Per Price	 Qty	Net Price
+===============================================
+        
+ Redmi 12 5g	   Rs.12500		  1    Rs.12500.0
+ Realmi 13C	   Rs.14500		  1    Rs.14500.0
+===============================================
+ Amount  			Rs.27000.0
+ Discount			Rs.1350.0
+ Net Pay 			Rs.25650.0
+===============================================
+        
