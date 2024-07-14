@@ -1,2 +1,2 @@
-email_='srijanbanerjee18@gmail.com'
-pass_='frxp shgz ezlq jyvl'
+email_='your email address'
+pass_='set app password from your gmail account'

@@ -146,6 +146,7 @@ class Login_System:
                 cur.execute("update employee set pass=? where eid=?",(self.var_new_pass.get(),self.employee_id.get(),))
                 con.commit()
                 messagebox.showinfo("Success","Password updated successfully")
+                self.forget_win.destroy()
 
             except Exception as ex:
                 messagebox.showerror("Error",f"Error due to {str(ex)}",parent=self.root)
